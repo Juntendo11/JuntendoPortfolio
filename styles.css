@@ -1,3 +1,21 @@
+.top-header {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.logo {
+    font-family: 'Inter', sans-serif;
+}
+
+
 /* Base Reset & Typography */
 body {
     font-family: 'Inter', sans-serif;
